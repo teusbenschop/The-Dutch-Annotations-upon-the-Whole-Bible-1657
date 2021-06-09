@@ -13,4 +13,4 @@ The documents are free. These are copyrighted (©) 2009-2021 by Teus Benschop. P
 
 Though "Dutch" is mentioned in the title, the texts really are in English, translated from Dutch.
 
-The "Online Bible" now contains the files, and keeps improving them. For the best versions of the text, the Online Bible looks the better source.
+The Online Bible at https://onlinebible.com now contains the files, and keeps improving them. For the best versions of the text, the Online Bible looks the better source.
